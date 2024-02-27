@@ -8,5 +8,4 @@ python-dotenv
 st-annotated-text
 flair
 stqdm
-streamlit_tags
-annotated_text
+streamlit-tags
