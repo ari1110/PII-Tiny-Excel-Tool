@@ -7,3 +7,4 @@ xlsxwriter
 python-dotenv
 st-annotated-text
 flair
+stqdm
