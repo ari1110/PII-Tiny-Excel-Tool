@@ -1,0 +1,3 @@
+#Currently restricted, must overwrite if larger file sizes want to be worked on
+[server]
+maxUploadSize = 5

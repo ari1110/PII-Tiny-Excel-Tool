@@ -1,0 +1,9 @@
+streamlit
+pandas
+presidio-analyzer[transformers]
+presidio-analyzer[stanza]
+presidio-anonymizer
+xlsxwriter
+python-dotenv
+st-annotated-text
+flair
